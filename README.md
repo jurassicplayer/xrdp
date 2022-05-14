@@ -1,3 +1,7 @@
+# THIS FORK IS JUST FOR A CUSTOM SETUP WIKI PAGE
+- I wanted to setup XRDP with Google Authenticator 2FA being optional...like how it is for most SSH setups you can find online.
+
+
 [![Build Status](https://github.com/neutrinolabs/xrdp/actions/workflows/build.yml/badge.svg)](https://github.com/neutrinolabs/xrdp/actions)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/neutrinolabs/xrdp-questions)
 ![Apache-License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
